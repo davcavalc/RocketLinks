@@ -9,6 +9,9 @@ module.exports = {
 				azul: '#4263EB',
 				preto: '#00082F'
 			},
+			backgroundImage: {
+				header: "url('/public/img/Maratona_Explorer4.png')"
+			},
 			fontFamily: {
 				play: "'Play', sans-serif"
 			},
