@@ -1,4 +1,4 @@
-# davcavalc.github.io
+# MARATONA EXPLORER 2
 
 Criação da página de links na Maratona Explorer 02 da Rocketseat
 
