@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+	.glass {
+		@apply h-full w-full bg-black rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-30 border border-gray-100;
+	}
+
+	.body-cover {
+		@apply bg-cover bg-center;
+	}
+
+	.btn {
+		@apply border-4 border-teal-500 w-52 rounded-md text-black justify-between shadow-lg shadow-teal-500 hover:shadow-teal-800 bg-teal-500 font-play cursor-pointer;
+	}
+}
