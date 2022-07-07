@@ -701,14 +701,6 @@ video {
   border-color: rgb(13 148 136 / var(--tw-border-opacity));
 }
 
-.bg-\[url\(\'\.\/img\/Maratona_Explorer4\.png\'\)\] {
-  background-image: url('./img/Maratona_Explorer4.png');
-}
-
-.bg-\[url\(\'public\/img\/Maratona_Explorer4\.png\'\)\] {
-  background-image: url('public/img/Maratona_Explorer4.png');
-}
-
 .bg-\[url\(\'\/public\/img\/Maratona_Explorer4\.png\'\)\] {
   background-image: url('/public/img/Maratona_Explorer4.png');
 }
